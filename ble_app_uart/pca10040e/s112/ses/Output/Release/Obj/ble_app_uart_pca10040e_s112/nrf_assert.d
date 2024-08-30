@@ -1,0 +1,25 @@
+Output/Release/Obj/ble_app_uart_pca10040e_s112/nrf_assert.o: \
+ /media/dhruvika/DCBCF1A8BCF17D78/Dhruvi/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.c \
+ /media/dhruvika/DCBCF1A8BCF17D78/Dhruvi/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
+ /usr/share/segger_embedded_studio_for_arm_5.70a/include/stdint.h \
+ ../../../../../../modules/nrfx/mdk/nrf.h \
+ ../../../../../../modules/nrfx/mdk/nrf52810.h \
+ ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_version.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_compiler.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h \
+ ../../../../../../components/toolchain/cmsis/include/mpu_armv7.h \
+ ../../../../../../modules/nrfx/mdk/system_nrf52810.h \
+ ../../../../../../modules/nrfx/mdk/nrf52810_bitfields.h \
+ ../../../../../../modules/nrfx/mdk/nrf51_to_nrf52810.h \
+ ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52810.h \
+ ../../../../../../modules/nrfx/mdk/nrf52810_name_change.h \
+ ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
+ /media/dhruvika/DCBCF1A8BCF17D78/Dhruvi/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
+ /usr/share/segger_embedded_studio_for_arm_5.70a/include/stdio.h \
+ /usr/share/segger_embedded_studio_for_arm_5.70a/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_5.70a/include/stdbool.h \
+ /media/dhruvika/DCBCF1A8BCF17D78/Dhruvi/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
+ ../../../../../../components/softdevice/s112/headers/nrf_error.h \
+ /media/dhruvika/DCBCF1A8BCF17D78/Dhruvi/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
+ /media/dhruvika/DCBCF1A8BCF17D78/Dhruvi/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h

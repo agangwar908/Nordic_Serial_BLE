@@ -1,0 +1,499 @@
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 10 BB 0A|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 97 55 A6 94 2E 54 28|..U...T(
+<debug> app:  09 71 4D D0 4E 47 0A 47|	qM.NG.G
+<debug> app:  27 7E                  |'~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1B 41 03 30 46 61|~..A.0Fa
+<debug> app:  E6 E7 00 CC 0D 20 00 00|..... ..
+<debug> app:  00 9E 49 CC F8 B3 7A 86|..I...z.
+<debug> app:  2F B9 29 EB 7E         |/.).~   
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 32 AB 08|~. .A2..
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 98 50 CA 09 0E 08 02|..P.	...
+<debug> app:  4C 5A C8 8C 50 55 85 1D|LZ..PU..
+<debug> app:  D7 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 22 41 03 52 C3 94|~."A.R..
+<debug> app:  E6 E7 00 CC 14 20 00 00|..... ..
+<debug> app:  00 9F 55 9D 18 3F A3 05|..U..?..
+<debug> app:  38 B9 47 34 A2 02 8E E5|8.G4....
+<debug> app:  7D 13 D2 7E            |}..~    
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 54 9B 0E|~. .AT..
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 99 FE A3 3D 09 F8 36|....=	.6
+<debug> app:  A7 FF 08 D3 82 F1 03 EB|........
+<debug> app:  3E 7E                  |>~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1A 41 03 74 DD 79|~..A.t.y
+<debug> app:  E6 E7 00 CC 0C 20 00 00|..... ..
+<debug> app:  00 A0 EA 1E BE 3E DB D1|.....>..
+<debug> app:  E1 82 E8 7E            |...~    
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 76 8B 0C|~. .Av..
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 9A 23 87 45 D0 45 29|..#.E.E)
+<debug> app:  AD 78 AD 0D 65 02 9A 90|.x..e...
+<debug> app:  4F 7E                  |O~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 25 41 03 96 CA 43|~.%A...C
+<debug> app:  E6 E7 00 CC 17 20 00 00|..... ..
+<debug> app:  00 A1 35 83 31 9E 3E C4|..5.1.>.
+<debug> app:  42 33 ED 30 DA A9 84 B2|B3.0....
+<debug> app:  3C 22 39 93 24 57 7E   |<"9.$W~ 
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 98 FB 02|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 9B DF 93 3D 4F C4 4E|....=O.N
+<debug> app:  1F F6 B1 31 37 D7 43 78|...17.Cx
+<debug> app:  B6 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1A 41 03 B8 BD 75|~..A...u
+<debug> app:  E6 E7 00 CC 0C 20 00 00|..... ..
+<debug> app:  00 A2 9D B0 FF 89 68 E0|......h.
+<debug> app:  D0 54 9A 7E            |.T.~    
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 BA EB 00|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 9C 37 E0 E1 AC 11 75|..7....u
+<debug> app:  E7 E9 89 C9 EA 29 C0 76|.....).v
+<debug> app:  1D 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1A 41 03 DA A9 35|~..A...5
+<debug> app:  E6 E7 00 CC 0C 20 00 00|..... ..
+<debug> app:  00 A3 E0 FE 73 1E E1 25|....s..%
+<debug> app:  3C 92 52 7E            |<.R~    
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 DC DB 06|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 9D 22 00 15 C9 8F 6F|.."....o
+<debug> app:  D5 C4 62 94 92 6B 55 BC|..b..kU.
+<debug> app:  05 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 28 41 03 FC 19 04|~.(A....
+<debug> app:  E6 E7 00 CC 1A 20 00 00|..... ..
+<debug> app:  00 A4 C9 B4 66 CC B5 B6|....f...
+<debug> app:  5A 15 D6 AD E2 FC 21 ED|Z.....!.
+<debug> app:  55 BF 05 2B 3D 2F 3D 27|U..+=/='
+<debug> app:  F8 7E                  |.~      
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 FE CB 04|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 9E 65 E3 EF BC 8C 0C|..e.....
+<debug> app:  7F A8 07 F7 1C 25 66 1D|.....%f.
+<debug> app:  0D 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A8 89 41 03 1E A3 24|~..A...$
+<debug> app:  E6 E7 00 CC 81 A9 20 00|...... .
+<debug> app:  00 00 A5 97 8C AF 1E 5F|......._
+<debug> app:  2D B7 B3 01 41 B6 47 DD|-...A.G.
+<debug> app:  2F F7 B8 86 85 80 47 80|/.....G.
+<debug> app:  3B 1B DA AE B6 CB B7 7A|;......z
+<debug> app:  EB 38 BD A2 8B 1F AA A1|.8......
+<debug> app:  63 EC 67 3C 78 89 B1 BC|c.g<x...
+<debug> app:  C9 78 9D 5F FA 94 75 38|.x._..u8
+<debug> app:  64 0B 86 7E            |d..~    
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  83 AA 11 6A CB 03 7D 24|...j..}$
+<debug> app:  27 F7 AF B6 F7 EC 7D 1D|'.....}.
+<debug> app:  66 FE 9F 3B 2B F5 D7 D9|f..;+...
+<debug> app:  37 A9 BD 2A DD 49 9C E7|7..*.I..
+<debug> app:  FE 6B 93 ED 55 BA 6D B5|.k..U.m.
+<debug> app:  D2 42 4D 99 5B 57 E6 85|.BM.[W..
+<debug> app:  42 7F 29 8C 42 82 DB F9|B.).B...
+<debug> app:  9B 8D D5 53 FE E9 7E   |...S..~ 
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 11 40 C3|~...A.@.
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 38 41 03 10 DA EA|~.8A....
+<debug> app:  86 E7 2D 13 81 CD 6C 8F|..-...l.
+<debug> app:  88 A6 65 49 BB 5F B1 02|..eI._..
+<debug> app:  60 53 08 70 A7 30 29 EE|`S.p.0).
+<debug> app:  67 DE D8 A6 B4 CA A7 91|g.......
+<debug> app:  6E F0 A0 A7 E1 CE E6 09|n......	
+<debug> app:  DF 63 E1 08 F7 87 FF B0|.c......
+<debug> app:  C8 7E                  |.~      
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 30 B9 2B|~. .A0.+
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 9F 7D 5B 80 CA 82 BE|..}[....
+<debug> app:  61 E3 22 34 22 2B E2 12|a."4"+..
+<debug> app:  16 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A8 89 41 03 32 CD CF|~..A.2..
+<debug> app:  E6 E7 00 CC 81 A9 20 00|...... .
+<debug> app:  00 00 A6 01 1A 8F 2C EE|......,.
+<debug> app:  DE 2D AE DD F0 69 34 2E|.-...i4.
+<debug> app:  10 D1 07 A9 7F E9 ED 30|.......0
+<debug> app:  3E 8F 87 85 A9 F8 D7 4B|>......K
+<debug> app:  DA 47 26 11 BC 65 00 CB|.G&..e..
+<debug> app:  BE 82 72 4C 99 8F 0D 07|..rL....
+<debug> app:  AD 3B 1F D2 E1 66 D2 2C|.;...f.,
+<debug> app:  7D 83 CE FF 68 15 AD BC|}...h...
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 51 44 81|~...AQD.
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 38 41 03 34 FC 8D|~.8A.4..
+<debug> app:  BC 63 D1 19 6E BA 54 00|.c..n.T.
+<debug> app:  40 79 70 F5 8F 10 FE 86|@yp.....
+<debug> app:  1F E7 B6 A0 38 BD E6 86|....8...
+<debug> app:  14 4E 36 6E 79 30 0D 44|.N6ny0.D
+<debug> app:  8C 71 EA 0B 1F C1 D0 49|.q.....I
+<debug> app:  73 4E 4A 44 FE 2A 36 ED|sNJD.*6.
+<debug> app:  A7 7E                  |.~      
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 72 AF 4A|~. .Ar.J
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A0 18 51 FE 6D B6 53|...Q.m.S
+<debug> app:  ED 16 BA DE BB 87 EE 10|........
+<debug> app:  49 7E                  |I~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 36 41 03 56 AA 63|~.6A.V.c
+<debug> app:  E6 E7 00 CC 28 20 00 00|....( ..
+<debug> app:  00 A7 07 13 1D 9B 9A 81|........
+<debug> app:  21 80 3C A9 AE 9E C6 82|!.<.....
+<debug> app:  CA 56 42 88 7E         |.VB.~   
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  BA 38 E2 1C 01 37 14 13|.8...7..
+<debug> app:  76 DD 2E 1B 86 22 3D 79|v...."=y
+<debug> app:  CF 08 7E               |..~     
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 94 97 C8|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A1 0D 33 88 70 EC DD|...3.p..
+<debug> app:  5A 2F C2 6B 55 A7 61 8F|Z/.kU.a.
+<debug> app:  F9 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 2C 41 03 78 D9 B4|~.,A.x..
+<debug> app:  E6 E7 00 CC 1E 20 00 00|..... ..
+<debug> app:  00 A8 3C 25 51 23 80 59|..<%Q#.Y
+<debug> app:  29 3A CA 9F BF A7 15 4C|):.....L
+<debug> app:  0C 27 0E DB C4 B7 23 33|.'....#3
+<debug> app:  64 3A 05 40 45 7E      |d:.@E~  
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 B6 87 CA|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A2 01 1B 22 0C B7 0B|...."...
+<debug> app:  F6 64 B5 8A AD 45 82 45|.d...E.E
+<debug> app:  1A 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 36 41 03 9A CA 6F|~.6A...o
+<debug> app:  E6 E7 00 CC 28 20 00 00|....( ..
+<debug> app:  00 A9 2A 15 67 9C C7 67|..*.g..g
+<debug> app:  E6 06 F9 10 67 3C 32 64|....g<2d
+<debug> app:  25 BB 20 67 D9 41 04 D7|%. g.A..
+<debug> app:  1D F6 07 F1 E4 27 48 1B|.....'H.
+<debug> app:  4B E4 48 41 4D 1D 5B 7E|K.HAM.[~
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 D8 FF 40|~. .A..@
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A3 11 6A 91 10 97 EE|...j....
+<debug> app:  F6 4A 79 9A 1F E6 AB 93|.Jy.....
+<debug> app:  1B 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 2C 41 03 BC F1 34|~.,A...4
+<debug> app:  E6 E7 00 CC 1E 20 00 00|..... ..
+<debug> app:  00 AA FC 0B 57 6E B7 C6|....Wn..
+<debug> app:  04 58 08 52 5D 5B DB 4E|.X.R][.N
+<debug> app:  E8 B8 CF 3F EC 47 D7 7E|...?.G.~
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  85 6B 30 45 DF 7E      |.k0E.~  
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 FA EF 42|~. .A..B
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A4 4C 27 CB 29 30 5C|..L'.)0\
+<debug> app:  56 1D 7A 09 86 AE 15 B7|V.z	....
+<debug> app:  78 7E                  |x~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 25 41 03 DE 86 8D|~.%A....
+<debug> app:  E6 E7 00 CC 17 20 00 00|..... ..
+<debug> app:  00 AB C8 63 4D 28 2D 94|...cM(-.
+<debug> app:  C9 37 F0 99 B6 F0 9F 0F|.7......
+<debug> app:  39 35 51 97 8A 50 7E   |95Q..P~ 
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 1C D7 C0|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A5 C6 C2 FC 2B 8F 1A|.....+..
+<debug> app:  5F BC DE 25 90 A5 92 BB|_..%....
+<debug> app:  A0 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A8 89 41 03 F0 D3 2A|~..A...*
+<debug> app:  E6 E7 00 CC 81 A5 20 00|...... .
+<debug> app:  00 00 AC 4D 37 35 E2 11|...M75..
+<debug> app:  FA 6A 8D C3 C1 CC F2 B0|.j......
+<debug> app:  F8 BF E3 92 EF 8C 60 48|......`H
+<debug> app:  FD D8 1D 81 B2 11 57 75|......Wu
+<debug> app:  2B 8A FC F5 3B 53 4A 57|+...;SJW
+<debug> app:  47 15 79 A3 E3 08 4E 78|G.y...Nx
+<debug> app:  25 5E C5 F5 68 4E 8B 53|%^..hN.S
+<debug> app:  F4 A3 8C 3D 8F B5 FB 8F|...=....
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 31 42 E2|~...A1B.
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 34 41 03 F2 F2 B9|~.4A....
+<debug> app:  FA 8F 73 B1 72 61 63 93|..s.rac.
+<debug> app:  12 A8 68 C3 3D 71 DC 67|..h.=q.g
+<debug> app:  7D 3B 70 DE 97 7F 8A 4C|};p....L
+<debug> app:  48 27 42 26 FA 0D B3 B3|H'B&....
+<debug> app:  0D 9B 6B 17 41 63 B1 AE|..k.Ac..
+<debug> app:  3E 5C 1B 8E C7 7E      |>\...~  
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 5E C1 A1|~. .A^..
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A6 AC DB 13 2B 92 85|.....+..
+<debug> app:  48 AB 7B 6E 22 D8 92 55|H.{n"..U
+<debug> app:  72 7E                  |r~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A8 89 41 03 14 F9 8B|~..A....
+<debug> app:  E6 E7 00 CC 82 01 7B 20|......{ 
+<debug> app:  00 00 00 AD F9 F6 7A 86|......z.
+<debug> app:  5D 6A 94 4C 0A DB 26 72|]j.L..&r
+<debug> app:  B3 1C DD 49 16 E5 B9 60|...I...`
+<debug> app:  DF 66 E1 DA 59 13 52 F3|.f..Y.R.
+<debug> app:  0F 3D B6 44 54 9C 47 09|.=.DT.G	
+<debug> app:  25 53 19 2C 02 6A 5F 93|%S.,.j_.
+<debug> app:  94 25 0B 0E FC 2B 11 7F|.%...+..
+<debug> app:  07 98 D9 FB 2B B3 01 84|....+...
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  02 E0 D1 1C F4 F7 B1 5F|......._
+<debug> app:  9C DD 49 82 AB CC 86 E0|..I.....
+<debug> app:  64 84 80 8B 36 77 00 37|d...6w.7
+<debug> app:  34 7E                  |4~      
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 71 46 A0|~...AqF.
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A8 89 41 03 16 EB A8|~..A....
+<debug> app:  FC 74 8A 2C CA 27 49 81|.t.,.'I.
+<debug> app:  24 37 05 96 2F 27 23 79|$7../'#y
+<debug> app:  9C D9 2B 9F FE 5A 7B 61|..+..Z{a
+<debug> app:  77 C9 16 C0 5A CA FA 35|w...Z..5
+<debug> app:  91 26 40 8C 0C C7 E9 94|.&@.....
+<debug> app:  A9 5F 11 4D 62 38 BF 6C|._.Mb8.l
+<debug> app:  72 14 32 BC AD EE 74 C4|r.2...t.
+<debug> app:  BA D3 72 E7 CD 7C C1 F2|..r..|..
+<debug> app:  EB 18 42 44 DF C5 49 A6|..BD..I.
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 91 48 47|~...A.HG
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A8 89 41 03 18 95 41|~..A...A
+<debug> app:  D8 BA 44 42 3D 65 38 81|..DB=e8.
+<debug> app:  35 6C 8F 8E F8 52 06 E7|5l...R..
+<debug> app:  42 EE 97 B8 06 A7 45 C7|B.....E.
+<debug> app:  A2 76 15 69 EB 14 E7 40|.v.i...@
+<debug> app:  14 F0 A3 2E EE 88 70 2D|......p-
+<debug> app:  44 A3 2D 55 AB 74 5B DA|D.-U.t[.
+<debug> app:  FB 4F 29 D4 9A B5 B4 3F|.O)....?
+<debug> app:  A4 90 6F 10 C2 78 3B 3E|..o..x;>
+<debug> app:  C6 F1 0D 18 02 76 16 3D|.....v.=
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 B1 4A 66|~...A.Jf
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 0B 41 03 1A BF 2C|~..A...,
+<debug> app:  A8 A4 CF 7E            |...~    
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 41 53 56 A2|~...ASV.
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E 7E A0 1E 41 03 73 8E|~~..A.s.
+<debug> app:  7F 81 80 12 05 01 80 06|........
+<debug> app:  01 80 07 04 00 00 00 01|........
+<debug> app:  08 04 00 00 00 01 53 3B|......S;
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 41 D0 B7 CC|~. .A...
+<debug> app:  E6 E6 00 C8 12 20 00 00|..... ..
+<debug> app:  00 A7 89 9C 02 70 9E 3D|.....p.=
+<debug> app:  3E 10 49 A7 A5 A1 0B F2|>.I.....
+<debug> app:  86 7E                  |.~      
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 21 93 7D D9|~. .!.}.
+<debug> app:  81 80 14 05 02 00 78 06|......x.
+<debug> app:  02 00 78 07 04 00 00 00|..x.....
+<debug> app:  01 08 04 00 00 00 01 F2|........
+<debug> app:  F0 7E                  |.~      
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 21 53 03 C7|~...!S..
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 07 21 03 1F 6B E9|~..!..k.
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 21 53 03 C7|~...!S..
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 07 21 03 1F 6B E9|~..!..k.
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 21 93 7D D9|~. .!.}.
+<debug> app:  81 80 14 05 02 00 78 06|......x.
+<debug> app:  02 00 78 07 04 00 00 00|..x.....
+<debug> app:  01 08 04 00 00 00 01 F2|........
+<debug> app:  F0 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1E 21 03 73 C3 7A|~..!.s.z
+<debug> app:  81 80 12 05 01 80 06 01|........
+<debug> app:  80 07 04 00 00 00 01 08|........
+<debug> app:  04 00 00 00 01 53 3B 7E|.....S;~
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 2B 03 21 10 FB AF|~.+.!...
+<debug> app:  E6 E6 00 60 1D A1 09 06|...`..	.
+<debug> app:  07 60 85 74 05 08 01 01|.`.t....
+<debug> app:  BE 10 04 0E 01 00 00 00|........
+<debug> app:  06 5F 1F 04 00 00 1E 1D|._......
+<debug> app:  FF FF C5 E4 7E         |....~   
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 37 21 03 30 6C 7C|~.7!.0l|
+<debug> app:  E6 E7 00 61 29 A1 09 06|...a).	.
+<debug> app:  07 60 85 74 05 08 01 01|.`.t....
+<debug> app:  A2 03 02 01 00 A3 05 A1|........
+<debug> app:  03 02 01 00 BE 10 04 0E|........
+<debug> app:  08 00 06 5F 1F 04 00 00|..._....
+<debug> app:  00 10 02 00 00 07 1C EA|........
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 19 03 21 32 6F D8|~...!2o.
+<debug> app:  E6 E6 00 C0 01 C1 00 01|........
+<debug> app:  00 00 2A 00 00 FF 01 00|..*.....
+<debug> app:  7A AA 7E               |z.~     
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 18 21 03 52 D2 01|~..!.R..
+<debug> app:  E6 E7 00 C4 01 C1 00 09|.......	
+<debug> app:  06 00 00 2A 00 00 FF C0|...*....
+<debug> app:  57 7E                  |W~      
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 1A 03 41 54 C7 9E|~...AT..
+<debug> app:  E6 E6 00 C8 0C 20 00 00|..... ..
+<debug> app:  00 A8 11 98 B6 01 D6 60|.......`
+<debug> app:  43 E6 BA 7E            |C..~    
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 21 53 03 C7|~...!S..
+<debug> app:  7E                     |~       
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1E 21 03 73 C3 7A|~..!.s.z
+<debug> app:  81 80 12 05 01 80 06 01|........
+<debug> app:  80 07 04 00 00 00 01 08|........
+<debug> app:  04 00 00 00 01 53 3B 7E|.....S;~
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 19 03 21 76 4F DC|~...!vO.
+<debug> app:  E6 E6 00 C0 01 C1 00 01|........
+<debug> app:  00 00 2A 00 00 FF 02 00|..*.....
+<debug> app:  12 80 7E               |..~     
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 20 03 21 93 7D D9|~. .!.}.
+<debug> app:  81 80 14 05 02 00 78 06|......x.
+<debug> app:  02 00 78 07 04 00 00 00|..x.....
+<debug> app:  01 08 04 00 00 00 01 F2|........
+<debug> app:  F0 7E                  |.~      
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 1E 21 03 73 C3 7A|~..!.s.z
+<debug> app:  81 80 12 05 01 80 06 01|........
+<debug> app:  80 07 04 00 00 00 01 08|........
+<debug> app:  04 00 00 00 01 53 3B 7E|.....S;~
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 1A 03 41 10 E7 9A|~...A...
+<debug> app:  E6 E6 00 C8 0C 20 00 00|..... ..
+<debug> app:  00 A9 28 AB 7A 43 62 A2|..(.zCb.
+<debug> app:  53 B9 74 7E            |S.t~    
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Ready to send data over BLE NUS
+<debug> app:  7E A0 0F 41 03 30 0B D0|~..A.0..
+<debug> app:  E6 E7 00 D8 01 01 3C 43|......<C
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x57.
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 2B 03 21 10 FB AF|~.+.!...
+<debug> app:  E6 E6 00 60 1D A1 09 06|...`..	.
+<debug> app:  07 60 85 74 05 08 01 01|.`.t....
+<debug> app:  BE 10 04 0E 01 00 00 00|........
+<debug> app:  06 5F 1F 04 00 00 1E 1D|._......
+<debug> app:  FF FF C5 E4 7E         |....~   
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 07 03 21 53 03 C7|~...!S..
+<debug> app:  7E                     |~       
+<debug> nrf_sdh_ble: BLE event: 0x50.
+<debug> app: Received data from BLE NUS. Writing data on UART.
+<debug> app:  7E A0 19 03 21 32 6F D8|~...!2o.
+<debug> app:  E6 E6 00 C0 01 C1 00 01|........
+<debug> app:  00 00 2B 01 02 FF 01 00|..+.....
+<debug> app:  63 9C 7E               |c.~     
